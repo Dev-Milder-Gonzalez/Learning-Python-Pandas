@@ -88,6 +88,6 @@
 ---
 ✅ **Resumen:**  
 - Para **Series**, recordar `pd.Series()`, `.iloc`, `.loc`, `.get()`, `.to_numpy()`, `.rename()`.  
-- Para **DataFrame**, recuerdar `pd.DataFrame()`, `.from_dict()`, `.from_records()`, `.assign()`, `.insert()`, `.pop()`, `.transpose()`, y las operaciones aritméticas/booleanas.  
+- Para **DataFrame**, recordar `pd.DataFrame()`, `.from_dict()`, `.from_records()`, `.assign()`, `.insert()`, `.pop()`, `.transpose()`, y las operaciones aritméticas/booleanas.  
 - Ambos interoperan con **ufuncs de NumPy** (`np.exp`, `np.asarray`, etc.).
 ---
